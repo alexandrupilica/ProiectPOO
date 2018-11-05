@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541349809 source:f:\code\poo proiect\main.cpp
+	"Header.h"
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1541349062 f:\code\poo proiect\header.h
+	<iostream>
+	<string>
+	<vector>
+
